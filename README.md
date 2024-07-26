@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LawSwan
 - 👀 I’m interested in ...learning to write code  
 - 🌱 I’m currently learning ...the Basics
-- 💞️ I’m looking to collaborate on ...python and java 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...swift, python and java 
+- 📫 How to reach me ... amber@hellohyper.com
 
 <!---
 LawSwan/LawSwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
