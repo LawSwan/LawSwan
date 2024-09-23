@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LawSwan
-- 👀 I’m interested in ...learning to write code  
+- 👀 I’m interested in ...learning to Cyber Security IOS, python 
 - 🌱 I’m currently learning ...the Basics
 - 💞️ I’m looking to collaborate on ...swift, python and java 
 - 📫 How to reach me ... amber@hellohyper.com
