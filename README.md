@@ -1,5 +1,5 @@
  heyy @LawSwan
-	•	🌱 I’m currently learning: Python, SwiftUI, and web design
+	•	🌱 I’m currently learning: Java, Python, SwiftUI, and web design
 	•	👀 I’m interested in: building creative apps and exploring new technologies
 	•	💻 I’m looking to collaborate on: web and iOS development projects
 	•	📫 How to reach me: [amberjanelle33@gmail.com]
